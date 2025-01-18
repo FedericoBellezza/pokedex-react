@@ -25,6 +25,9 @@ img.card-img-top {
   height: 50px;
   aspect-ratio: 1/1.2;
   transition: 0.3s;
+  /* background-image: url("https://thumbs.dreamstime.com/b/disegno-di-una-piuma-bianca-sullo-sfondo-blu-del-cielo-272351783.jpg");
+  background-size: cover;
+  background-position: center; */
 }
 
 .card:hover {
